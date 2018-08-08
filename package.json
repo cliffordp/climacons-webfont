@@ -4,7 +4,10 @@
     "description": "The Climacons webfont. Climacons created by Adam Whitcroft. Credit also to Christian Naths for webfont version.",
     "repository": {
         "type": "git",
-        "url": "https://github.com/cliffordp/climacons-webfont"
+        "url": "https://github.com/cliffordp/climacons-webfont.git"
+    },
+    "bugs": {
+        "url": "https://github.com/cliffordp/climacons-webfont/issues"
     },
     "keywords": [
         "icons",
