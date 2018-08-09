@@ -5,7 +5,7 @@
 * https://github.com/christiannaths/Climacons-Font/tree/master/webfont
 
 ## What? Why?
-This repository was created *solely* for the sake of conveniently including *just* the webfont version via [Composer](https://getcomposer.org/).
+This repository was created *solely* for the sake of conveniently including *just* the webfont version into apps, such as via [Composer](https://getcomposer.org/) or [NPM](https://www.npmjs.com/).
 
 No creative credit is claimed regarding the icons.
 
@@ -13,5 +13,4 @@ Visit Adam's and/or Christian's repository links, above, if you want Climacons i
 
 ### Adam Whitcroft's license text
 You are free to use any of the Climacons Icons (the "icons") in any personal or commercial work without obligation of payment (monetary or otherwise) or attribution, however a credit for the work would be appreciated. **Do not** redistribute or sell and **do not** claim creative credit. Intellectual property rights are not transferred with the download of the icons.
-
-*[License Concern](https://github.com/AdamWhitcroft/climacons/issues/6)*
+- From https://github.com/AdamWhitcroft/climacons/blob/master/README.md
