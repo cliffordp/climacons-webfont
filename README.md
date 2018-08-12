@@ -5,7 +5,8 @@
 * https://github.com/christiannaths/Climacons-Font/tree/master/webfont
 
 ## What? Why?
-This repository was created *solely* for the sake of conveniently including *just* the webfont version into apps, such as via [Composer](https://getcomposer.org/) or [NPM](https://www.npmjs.com/).
+This repository was created *solely* for the sake of conveniently including *just* the webfont version into apps, such as via [Composer](https://getcomposer.org/) or [NPM](https://www.npmjs.com/):
+* Composer: https://packagist.org/packages/climacons-webfont/climacons-webfont
 
 No creative credit is claimed regarding the icons.
 
